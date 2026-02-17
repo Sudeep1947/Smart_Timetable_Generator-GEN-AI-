@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+python-dotenv
+sqlalchemy
+pydantic
+python-jose
+passlib
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
